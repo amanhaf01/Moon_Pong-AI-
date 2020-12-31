@@ -18,6 +18,7 @@ This is what it looks like if Player 1 wins
 ![End](MoonPong4.PNG)
 
 Version 2
+Added an AI bot for a one player game
 
 ENJOY!
 
